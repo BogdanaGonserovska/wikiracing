@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+psycopg2==2.9.5
+psycopg2_binary==2.9.3
+ratelimit==2.2.1
+requests==2.26.0
